@@ -1,0 +1,95 @@
+# 📸 Captured Moments Photography Portfolio
+
+## About the Project
+
+Captured Moments Photography Portfolio is a responsive personal portfolio website created by **Bonaya Godana**. The website showcases a collection of photography work, provides information about the photographer, and allows visitors to get in touch through the contact section.
+
+The project was built using **HTML5** and **CSS3** as part of a web development learning project.
+
+---
+
+## Features
+
+* 🏠 Home page with a welcoming hero section
+* 🖼️ Responsive photo gallery
+* 👤 About Me section
+* 📧 Contact section with email and phone links
+* 🌐 Social media links
+* ⬆️ Back to Top button
+* 🎨 Custom styling using CSS
+
+---
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* Visual Studio Code
+* Git & GitHub
+
+---
+
+## Project Structure
+
+```
+project-folder/
+│
+├── index.html
+├── style.css
+├── README.md
+└── images/   (optional if using local images)
+```
+
+---
+
+## How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/your-repository-name.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your web browser.
+
+Alternatively, if you're using **Visual Studio Code**, install the **Live Server** extension and click **Go Live** to preview the website.
+
+---
+
+## Screens Included
+
+* Home
+* Gallery
+* About Me
+* Contact
+* Footer with social media links
+
+---
+
+## Future Improvements
+
+* Add more photography categories.
+* Make the gallery fully responsive on all screen sizes.
+* Include a booking form for photography sessions.
+* Add image lightbox functionality.
+* Improve accessibility and SEO.
+
+---
+
+## Author
+
+**Bonaya Godana**
+
+📧 Email: [bonayagodana091@gmail.com](mailto:bonayagodana091@gmail.com)
+
+📞 Phone: +254 791 476 099
+
+---
+
+## License
+
+This project is created for educational and portfolio purposes.
+
+© 2026 Bonaya Godana. All Rights Reserved.
