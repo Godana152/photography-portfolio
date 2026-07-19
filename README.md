@@ -1,4 +1,4 @@
-# 📸 Captured Moments Photography Portfolio
+#  Captured Moments Photography Portfolio
 
 ## About the Project
 
@@ -10,13 +10,13 @@ The project was built using **HTML5** and **CSS3** as part of a web development 
 
 ## Features
 
-* 🏠 Home page with a welcoming hero section
-* 🖼️ Responsive photo gallery
-* 👤 About Me section
-* 📧 Contact section with email and phone links
-* 🌐 Social media links
-* ⬆️ Back to Top button
-* 🎨 Custom styling using CSS
+*  Home page with a welcoming hero section
+*  Responsive photo gallery
+*  About Me section
+*  Contact section with email and phone links
+*  Social media links
+*  Back to Top button
+*  Custom styling using CSS
 
 ---
 
@@ -82,9 +82,9 @@ Alternatively, if you're using **Visual Studio Code**, install the **Live Server
 
 **Bonaya Godana**
 
-📧 Email: [bonayagodana091@gmail.com](mailto:bonayagodana091@gmail.com)
+ Email: [bonayagodana091@gmail.com](mailto:bonayagodana091@gmail.com)
 
-📞 Phone: +254 791 476 099
+ Phone: +254 791 476 099
 
 ---
 
