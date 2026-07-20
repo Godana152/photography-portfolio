@@ -42,17 +42,11 @@ project-folder/
 
 ---
 
-## How to Run the Project
+## How to Run the Proje
 
-1. Clone the repository:
+1. Open the project folder.
 
-```bash
-git clone https://github.com/yourusername/your-repository-name.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your web browser.
+2. Open `index.html` in your web browser.
 
 Alternatively, if you're using **Visual Studio Code**, install the **Live Server** extension and click **Go Live** to preview the website.
 
