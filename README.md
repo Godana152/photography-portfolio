@@ -31,14 +31,14 @@ The project was built using **HTML** and **CSS** as part of a web development le
 
 ## Project Structure
 
-```
+
 project-folder/
-│
+
    index.html
    style.css
    README.md
    images/   
-```
+
 
 ---
 
@@ -83,4 +83,4 @@ Alternatively, if you're using **Visual Studio Code**, install the **Live Server
 
 This project is created for educational and portfolio purposes.
 
-© 2026 Bonaya Godana. All Rights Reserved.
+copyright 2026 Bonaya Godana. All Rights Reserved.
