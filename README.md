@@ -88,7 +88,7 @@ Alternatively, if you're using **Visual Studio Code**, install the **Live Server
 
 ---
 
-## License
+
 
 This project is created for educational and portfolio purposes.
 
