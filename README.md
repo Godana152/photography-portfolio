@@ -82,7 +82,7 @@ Alternatively, if you're using **Visual Studio Code**, install the **Live Server
 
 **Bonaya Godana**
 
- Email: [bonayagodana091@gmail.com](mailto:bonayagodana091@gmail.com)
+ Email: bonayagodana091@gmail.com
 
  Phone: +254 791 476 099
 
