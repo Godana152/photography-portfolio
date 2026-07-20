@@ -1,4 +1,4 @@
-#  Captured Moments Photography Portfolio
+#  Godana Photography Portfolio
 
 ## About the Project
 
