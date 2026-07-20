@@ -34,10 +34,10 @@ The project was built using **HTML5** and **CSS3** as part of a web development 
 ```
 project-folder/
 │
-├── index.html
-├── style.css
-├── README.md
-└── images/   (optional if using local images)
+   index.html
+   style.css
+   README.md
+   images/   
 ```
 
 ---
