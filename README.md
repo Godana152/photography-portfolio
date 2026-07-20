@@ -22,8 +22,8 @@ The project was built using **HTML5** and **CSS3** as part of a web development 
 
 ## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Visual Studio Code
 * Git & GitHub
 
