@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Captured Moments Photography Portfolio is a responsive personal portfolio website created by **Bonaya Godana**. The website showcases a collection of photography work, provides information about the photographer, and allows visitors to get in touch through the contact section.
+Godana Photography Portfolio is a responsive personal portfolio website created by **Bonaya Godana**. The website showcases a collection of photography work, provides information about the photographer, and allows visitors to get in touch through the contact section.
 
 The project was built using **HTML** and **CSS** as part of a web development learning project.
 
@@ -16,7 +16,7 @@ The project was built using **HTML** and **CSS** as part of a web development le
 *  Contact section with email and phone links
 *  Social media links
 *  Back to Top button
-*  Custom styling using CSS
+*  Basic styling using CSS
 
 ---
 
@@ -28,7 +28,7 @@ The project was built using **HTML** and **CSS** as part of a web development le
 * Git & GitHub
 
 ---
-
+ 
 ## Project Structure
 
 
