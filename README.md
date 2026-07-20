@@ -52,7 +52,7 @@ Alternatively, if you're using **Visual Studio Code**, install the **Live Server
 
 ---
 
-## Screens Included
+## Sections Included
 
 * Home
 * Gallery
@@ -62,25 +62,12 @@ Alternatively, if you're using **Visual Studio Code**, install the **Live Server
 
 ---
 
-## Future Improvements
-
-* Add more photography categories.
-* Make the gallery fully responsive on all screen sizes
-
----
-
 ## Author
 
 **Bonaya Godana**
 
  Email: bonayagodana091@gmail.com
 
- Phone: +254 791 476 099
-
----
-
-
-
-This project is created for educational and portfolio purposes.
+ Phone: +254 791 476099
 
 copyright 2026 Bonaya Godana. All Rights Reserved.
