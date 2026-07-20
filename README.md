@@ -42,7 +42,7 @@ project-folder/
 
 ---
 
-## How to Run the Proje
+## How to Run the Project
 
 1. Open the project folder.
 
