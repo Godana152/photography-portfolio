@@ -71,10 +71,7 @@ Alternatively, if you're using **Visual Studio Code**, install the **Live Server
 ## Future Improvements
 
 * Add more photography categories.
-* Make the gallery fully responsive on all screen sizes.
-* Include a booking form for photography sessions.
-* Add image lightbox functionality.
-* Improve accessibility and SEO.
+* Make the gallery fully responsive on all screen sizes
 
 ---
 
